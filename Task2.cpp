@@ -32,4 +32,6 @@ int main(int argc, char** argv)
 		}
 	}
 	out << max + min;
+	
+	return EXIT_SUCCESS;
 }
